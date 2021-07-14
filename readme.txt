@@ -2,3 +2,4 @@ git
 reset
 
 dev
+stash
