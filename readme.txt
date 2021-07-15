@@ -1,5 +1,6 @@
 git 
-reset
+reset 回退到历史版本
 
 dev
-stash
+
+checkout -- file 丢弃文件
