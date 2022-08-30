@@ -1,6 +1,6 @@
 {
   "name": "somegoodcomponent",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SnowHot/someGoodComponent/issues"
   },
-  "homepage": "https://github.com/SnowHot/someGoodComponent#readme"
+  "homepage": "https://github.com/SnowHot/someGoodComponent#readme",
+  "dependencies": {
+    "vue": "^3.2.37"
+  }
 }
